@@ -1,0 +1,7 @@
+/build
+.vscode
+*.png
+*.pdf
+*.xlsx
+*.pptx
+*.docx
