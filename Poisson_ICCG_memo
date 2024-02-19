@@ -5,3 +5,10 @@ Create this folder for solving poisson equation by using ICCG method.
 As the purpose of electrostatic analyze.
 reference : Fortran hand book Taguchi Toshihiro
 
+16:14:20.494584
+divide ICCG solver into ICCG.cpp and ICCG.hpp
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2024_2_19(ŒŽ)(2024-02-19 14:38:08.956288)
+
