@@ -11,4 +11,7 @@ divide ICCG solver into ICCG.cpp and ICCG.hpp
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2024_2_19(ŒŽ)(2024-02-19 14:38:08.956288)
+create ssh
+password is keycomb
+add g:\BUFFALO\program\cpp\Poisson_ICCG for remote repository but one cannot push 
 
