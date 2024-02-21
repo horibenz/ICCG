@@ -14,4 +14,7 @@ divide ICCG solver into ICCG.cpp and ICCG.hpp
 create ssh
 password is keycomb
 add g:\BUFFALO\program\cpp\Poisson_ICCG for remote repository but one cannot push 
+Most plausible reason is that wsl cannot recognize the usb for remote repository or cannot access to it 
+
+
 

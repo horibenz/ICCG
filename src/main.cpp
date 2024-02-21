@@ -5,10 +5,9 @@
 
 int main(){
     std::cout << "hello world" << std::endl;
-
+    
     int i, j, k;
     double x;
     double y;
-
 
 }

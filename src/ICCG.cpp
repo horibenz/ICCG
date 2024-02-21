@@ -1,19 +1,21 @@
 #include <ICCG.hpp>
-#include <algorithm>
 
-class ICCG
-{
-private:
-    /* data */
-public:
-    ICCG(/* args */);
-    ~ICCG();
-};
+ICCG::ICCG(
+    std::vector<std::vector<double>> xr,
+    std::vector<std::vector<double>> br,
+    double h,
+    int nx, int ny,
+    double eps,
+    int ind    
+){
+    for (int i = 0; i < nx; i++)
+    {
+        for (int j = 0; j < ny; j++)
+        {
+            pr[i][j] = 0;
+        }
+        
+    }
+    double h2 = h * h;
 
-ICCG::ICCG(/* args */)
-{
-}
-
-ICCG::~ICCG()
-{
 }

@@ -4,3 +4,5 @@
 $$ \dfrac{\partial^2 V}{\partial x^2} + \dfrac{\partial^2 V}{\partial y^2} = f(x, y) $$
 
 ## Poisson equation 
+$$
+x^2 $$

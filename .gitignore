@@ -6,3 +6,4 @@
 *.pptx
 *.docx
 .ssh
+CMakeFiles
